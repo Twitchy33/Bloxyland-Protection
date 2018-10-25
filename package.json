@@ -1,0 +1,16 @@
+{
+  "name": "bloxyprotection",
+  "version": "1.0.0",
+  "description": "The offical bot for Bloxyland",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Twitchy33",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2",
+    "ms": "^2.1.1",
+    "npm": "^6.4.1"
+  }
+}
